@@ -1,0 +1,52 @@
+p{
+    font-family:Arial;
+}
+
+.title-style{
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: bold;
+    width: 300px;
+    line-height: 26px;
+    margin-bottom: 5px;
+}
+
+.small-style{
+    font-size: 10px;
+    color:gray;
+    margin-top: 0px;
+    margin-bottom: 18px;
+}
+
+.creator-style{
+    font-size: 12px;
+    color:gray;
+    margin-top: 0px;
+    margin-bottom: 18px;
+}
+
+.desc-style{
+    font-size: 12px;
+    color:gray;
+    margin-top: 0px;
+    margin-bottom: 100px;
+}
+
+.apple-text{
+    font-size: 12px;
+    color:white;
+    background-color: red;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 18px;
+    margin-top: 0px;
+    margin-bottom: 100;
+}
+
+.click-Shop{
+    cursor: pointer;
+    margin-left: 12px;
+}
+.click-Shop:hover{
+    text-decoration: underline;
+}
